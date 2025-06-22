@@ -1,0 +1,1850 @@
+[
+  {
+    "id": 2,
+    "name": "Ballpark Burger",
+    "difficulty": 3,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 3,
+    "name": "Bibimbap",
+    "difficulty": 5,
+    "HS": false,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 4,
+    "name": "Gelato",
+    "difficulty": 2,
+    "HS": false,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 5,
+    "name": "Gyro",
+    "difficulty": 4,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 6,
+    "name": "Falafel",
+    "difficulty": 0,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 7,
+    "name": "Sencillo Tacos",
+    "difficulty": 3,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 8,
+    "name": "Puff Puff",
+    "difficulty": 2,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 9,
+    "name": "Hanami Dango",
+    "difficulty": 1,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 10,
+    "name": "Kheer",
+    "difficulty": 1,
+    "HS": false,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 11,
+    "name": "Tandoori Chicken",
+    "difficulty": 1,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 12,
+    "name": "Jalebi",
+    "difficulty": 1,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 13,
+    "name": "Laulau",
+    "difficulty": 1,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 14,
+    "name": "Biscuits and Gravy",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 15,
+    "name": "Chili",
+    "difficulty": 2,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 16,
+    "name": "Palak Paneer",
+    "difficulty": 2,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 17,
+    "name": "Qeema",
+    "difficulty": 1,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 18,
+    "name": "Chowder",
+    "difficulty": 3,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 19,
+    "name": "Coq Au Vin",
+    "difficulty": 2,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 20,
+    "name": "Ratatouille",
+    "difficulty": 3,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 21,
+    "name": "Bouillabaisse",
+    "difficulty": 3,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 22,
+    "name": "Gumbo",
+    "difficulty": 3,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 23,
+    "name": "Croque Monsieur",
+    "difficulty": 2,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 24,
+    "name": "Duck Confit",
+    "difficulty": 0,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 25,
+    "name": "Soup",
+    "difficulty": 3,
+    "HS": true,
+    "added": 1,
+    "autoserve": true
+  },
+  {
+    "id": 26,
+    "name": "Navarin",
+    "difficulty": 2,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 27,
+    "name": "Roulade",
+    "difficulty": 5,
+    "HS": false,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 28,
+    "name": "Beignet",
+    "difficulty": 1,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 29,
+    "name": "Blancmange",
+    "difficulty": 0,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 30,
+    "name": "Stew",
+    "difficulty": 2,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 31,
+    "name": "Kachumbari",
+    "difficulty": 0,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 32,
+    "name": "Chakalaka",
+    "difficulty": 2,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 33,
+    "name": "Moussaka",
+    "difficulty": 1,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 34,
+    "name": "Poutine",
+    "difficulty": 1,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 35,
+    "name": "Tourtiere",
+    "difficulty": 1,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 37,
+    "name": "Jambalaya",
+    "difficulty": 2,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 38,
+    "name": "Torta",
+    "difficulty": 4,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 39,
+    "name": "Churros",
+    "difficulty": 0,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 40,
+    "name": "Ceviche",
+    "difficulty": 2,
+    "HS": false,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 41,
+    "name": "Mapo Tofu",
+    "difficulty": 1,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 42,
+    "name": "Chicken Nuggets",
+    "difficulty": 0,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 43,
+    "name": "Chicken Strips",
+    "difficulty": 0,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 44,
+    "name": "Chopped Brisket Sandwich",
+    "difficulty": 2,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 46,
+    "name": "Corndogs",
+    "difficulty": 2,
+    "HS": true,
+    "added": 1,
+    "autoserve": false
+  },
+  {
+    "id": 47,
+    "name": "Egg Drop Soup",
+    "difficulty": 0,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 48,
+    "name": "French Toast",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 49,
+    "name": "Fried Fish",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 50,
+    "name": "Fried Shrimp",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 51,
+    "name": "Lasagna",
+    "difficulty": 3,
+    "HS": true,
+    "added": 1,
+    "autoserve": true
+  },
+  {
+    "id": 52,
+    "name": "Brisket Slices",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 53,
+    "name": "Turkey Slices",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 54,
+    "name": "Ham Slices",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 55,
+    "name": "Sausage Slices",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 56,
+    "name": "Muffins",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 57,
+    "name": "Tonkatsu",
+    "difficulty": 1,
+    "HS": false,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 58,
+    "name": "Huauzontles",
+    "difficulty": 1,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 59,
+    "name": "Shepherd's Pie",
+    "difficulty": 2,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 61,
+    "name": "Oatmeal",
+    "difficulty": 2,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 62,
+    "name": "Pizza by the Slice",
+    "difficulty": 4,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 63,
+    "name": "Pho",
+    "difficulty": 4,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 64,
+    "name": "Banh Mi",
+    "difficulty": 4,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 65,
+    "name": "Pad Thai",
+    "difficulty": 2,
+    "HS": false,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 66,
+    "name": "Green Papaya Salad",
+    "difficulty": 2,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 67,
+    "name": "Sinigang",
+    "difficulty": 3,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 68,
+    "name": "Sisig",
+    "difficulty": 3,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 69,
+    "name": "Pancit",
+    "difficulty": 1,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 70,
+    "name": "Pretzel",
+    "difficulty": 0,
+    "HS": true,
+    "added": 1,
+    "autoserve": true
+  },
+  {
+    "id": 71,
+    "name": "Prime Rib",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 72,
+    "name": "Roast Beef Sandwich",
+    "difficulty": 2,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 73,
+    "name": "Bibingka",
+    "difficulty": 1,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 74,
+    "name": "Slice of Pie",
+    "difficulty": 3,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 75,
+    "name": "Halo Halo",
+    "difficulty": 3,
+    "HS": false,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 76,
+    "name": "Empanadas",
+    "difficulty": 2,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 77,
+    "name": "Menudo",
+    "difficulty": 1,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 78,
+    "name": "Baklava",
+    "difficulty": 1,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 80,
+    "name": "Buta Kimchi",
+    "difficulty": 0,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 81,
+    "name": "Japchae",
+    "difficulty": 0,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 82,
+    "name": "Haemul Pajeon",
+    "difficulty": 2,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 83,
+    "name": "Okroshka",
+    "difficulty": 2,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 84,
+    "name": "Chicken Kiev",
+    "difficulty": 2,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 85,
+    "name": "Bunny Chow",
+    "difficulty": 2,
+    "HS": false,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 86,
+    "name": "Steak Fingers",
+    "difficulty": 0,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 87,
+    "name": "Tiramisu",
+    "difficulty": 2,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 88,
+    "name": "Tres Leches",
+    "difficulty": 3,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 101,
+    "name": "Egg Rolls",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 104,
+    "name": "Fruit Salad",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 115,
+    "name": "Onigiri",
+    "difficulty": 1,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 126,
+    "name": "Griddle Eggs",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 132,
+    "name": "Pupusas",
+    "difficulty": 1,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 134,
+    "name": "Garden Salad",
+    "difficulty": 0,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 137,
+    "name": "Stuffed Artichokes",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 143,
+    "name": "Cookies",
+    "difficulty": 1,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 147,
+    "name": "Bean Burger",
+    "difficulty": 3,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 148,
+    "name": "Breakfast Burrito",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 149,
+    "name": "Breakfast Sandwich",
+    "difficulty": 2,
+    "HS": false,
+    "added": 1,
+    "autoserve": true
+  },
+  {
+    "id": 150,
+    "name": "Burrito",
+    "difficulty": 5,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 151,
+    "name": "Cannoli",
+    "difficulty": 4,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 152,
+    "name": "Chicken Fried Meats",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 153,
+    "name": "Chicken Sandwich",
+    "difficulty": 3,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 154,
+    "name": "Chimichanga",
+    "difficulty": 2,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 155,
+    "name": "Chow Mein",
+    "difficulty": 3,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 157,
+    "name": "Filet Mignon",
+    "difficulty": 3,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 158,
+    "name": "Funnel Cake",
+    "difficulty": 2,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 159,
+    "name": "Hamburger",
+    "difficulty": 4,
+    "HS": true,
+    "added": 1,
+    "autoserve": false
+  },
+  {
+    "id": 160,
+    "name": "Hotdog",
+    "difficulty": 3,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 161,
+    "name": "Japanese Fried Rice",
+    "difficulty": 3,
+    "HS": true,
+    "added": 1,
+    "autoserve": true
+  },
+  {
+    "id": 162,
+    "name": "Veal Marsala",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 163,
+    "name": "Grilled Chicken Sandwich",
+    "difficulty": 3,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 168,
+    "name": "Lamb Chops",
+    "difficulty": 2,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 169,
+    "name": "Lobster",
+    "difficulty": 2,
+    "HS": false,
+    "added": 1,
+    "autoserve": false
+  },
+  {
+    "id": 170,
+    "name": "Meatloaf",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 171,
+    "name": "Deluxe Nachos",
+    "difficulty": 4,
+    "HS": true,
+    "added": 1,
+    "autoserve": false
+  },
+  {
+    "id": 172,
+    "name": "Omelette",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 173,
+    "name": "Pancakes",
+    "difficulty": 2,
+    "HS": true,
+    "added": 1,
+    "autoserve": false
+  },
+  {
+    "id": 174,
+    "name": "Pasta",
+    "difficulty": 5,
+    "HS": false,
+    "added": 1,
+    "autoserve": false
+  },
+  {
+    "id": 175,
+    "name": "Pulled Pork Sandwich",
+    "difficulty": 3,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 176,
+    "name": "Quesadilla",
+    "difficulty": 3,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 177,
+    "name": "Ramen",
+    "difficulty": 5,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 178,
+    "name": "Ribs",
+    "difficulty": 2,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 179,
+    "name": "Salisbury Steak",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 180,
+    "name": "Sausage and Sauerkraut",
+    "difficulty": 1,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 181,
+    "name": "Sizzling Fajitas",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 182,
+    "name": "Sliders",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 183,
+    "name": "Sopapillas",
+    "difficulty": 1,
+    "HS": true,
+    "added": 1,
+    "autoserve": false
+  },
+  {
+    "id": 184,
+    "name": "Spinach Veggie Pasta",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 185,
+    "name": "Steak",
+    "difficulty": 3,
+    "HS": false,
+    "added": 1,
+    "autoserve": true
+  },
+  {
+    "id": 186,
+    "name": "Stuffed Peppers",
+    "difficulty": 3,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 187,
+    "name": "Tacos",
+    "difficulty": 5,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 188,
+    "name": "Tostadas",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 189,
+    "name": "Traditional Hot Wings",
+    "difficulty": 3,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 190,
+    "name": "Turkey Leg",
+    "difficulty": 0,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 191,
+    "name": "Waffles",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 192,
+    "name": "Wok Dish: Beef & Pork",
+    "difficulty": 5,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 193,
+    "name": "Wok Dish: Chicken",
+    "difficulty": 5,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 194,
+    "name": "Wok Dish: Shrimp & Veg.",
+    "difficulty": 5,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 195,
+    "name": "Yaki Tomorokoshi",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 196,
+    "name": "Baked Hot Wings",
+    "difficulty": 3,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 197,
+    "name": "Bananas Foster",
+    "difficulty": 1,
+    "HS": false,
+    "added": 1,
+    "autoserve": true
+  },
+  {
+    "id": 198,
+    "name": "Beef Wellington",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 199,
+    "name": "Calzone",
+    "difficulty": 5,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 200,
+    "name": "Carpaccio",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 201,
+    "name": "Cereal",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 202,
+    "name": "Chicken Breast",
+    "difficulty": 3,
+    "HS": false,
+    "added": 1,
+    "autoserve": true
+  },
+  {
+    "id": 203,
+    "name": "Eggplant Parmigiana",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 204,
+    "name": "Club Sandwich",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 205,
+    "name": "Corn Chip Pie",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 206,
+    "name": "Crab Cakes",
+    "difficulty": 3,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 207,
+    "name": "Crab Legs",
+    "difficulty": 0,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 208,
+    "name": "Creme Brulee",
+    "difficulty": 5,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 209,
+    "name": "Dessert Shooters",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 210,
+    "name": "Boiled Eggs",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 211,
+    "name": "Escargot",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 212,
+    "name": "Fresh Fish",
+    "difficulty": 3,
+    "HS": false,
+    "added": 1,
+    "autoserve": true
+  },
+  {
+    "id": 213,
+    "name": "Fried Chicken",
+    "difficulty": 3,
+    "HS": false,
+    "added": 1,
+    "autoserve": true
+  },
+  {
+    "id": 214,
+    "name": "Fried Seafood",
+    "difficulty": 3,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 215,
+    "name": "Zrazy",
+    "difficulty": 2,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 216,
+    "name": "Gazpacho",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 217,
+    "name": "Hiyayakko Tofu",
+    "difficulty": 3,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 218,
+    "name": "Pasta Salad",
+    "difficulty": 3,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 219,
+    "name": "Borscht",
+    "difficulty": 2,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 220,
+    "name": "Ice Cream Sundae",
+    "difficulty": 3,
+    "HS": false,
+    "added": 1,
+    "autoserve": false
+  },
+  {
+    "id": 221,
+    "name": "Solyanka",
+    "difficulty": 2,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 222,
+    "name": "Japanese Crepe",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 223,
+    "name": "Medovik",
+    "difficulty": 1,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 224,
+    "name": "Koeksisters",
+    "difficulty": 0,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 225,
+    "name": "Steamed Momos",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 227,
+    "name": "Okonomiyaki",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 228,
+    "name": "Oysters",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 229,
+    "name": "Khachapuri",
+    "difficulty": 0,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 230,
+    "name": "Pies",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 231,
+    "name": "Pig's Blood Cake",
+    "difficulty": 0,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 232,
+    "name": "Pizza",
+    "difficulty": 5,
+    "HS": false,
+    "added": 1,
+    "autoserve": true
+  },
+  {
+    "id": 233,
+    "name": "Pork Loin",
+    "difficulty": 3,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 234,
+    "name": "Pot Pie",
+    "difficulty": 3,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 235,
+    "name": "Quiche",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 236,
+    "name": "Risotto",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 237,
+    "name": "Salad",
+    "difficulty": 4,
+    "HS": false,
+    "added": 1,
+    "autoserve": false
+  },
+  {
+    "id": 238,
+    "name": "Samosas",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 239,
+    "name": "Sashimi",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 240,
+    "name": "Shish Kabob",
+    "difficulty": 3,
+    "HS": false,
+    "added": 1,
+    "autoserve": true
+  },
+  {
+    "id": 241,
+    "name": "Small Custom Sub",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 242,
+    "name": "Souffle",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 243,
+    "name": "Steamed Mussels",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 244,
+    "name": "Sub Sandwich",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 245,
+    "name": "Sushi",
+    "difficulty": 5,
+    "HS": true,
+    "added": 1,
+    "autoserve": true
+  },
+  {
+    "id": 246,
+    "name": "Tabbouleh",
+    "difficulty": 2,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 247,
+    "name": "Tamales",
+    "difficulty": 5,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 248,
+    "name": "Taiwanese Shaved Ice",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 249,
+    "name": "Whole Cakes",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 250,
+    "name": "Yakizakana",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 251,
+    "name": "Stadium Nachos",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 252,
+    "name": "Agedashi Tofu",
+    "difficulty": 3,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 253,
+    "name": "Spaghetti",
+    "difficulty": 2,
+    "HS": true,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 254,
+    "name": "Frozen Lattes",
+    "difficulty": 3,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 255,
+    "name": "Hot Lattes",
+    "difficulty": 5,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 256,
+    "name": "Iced Lattes",
+    "difficulty": 5,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 257,
+    "name": "Milkshakes",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 258,
+    "name": "Smoothies",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 259,
+    "name": "Iced Americano",
+    "difficulty": 2,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 260,
+    "name": "Enchiladas",
+    "difficulty": 3,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 261,
+    "name": "Htapothi sti Skhara",
+    "difficulty": 1,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 262,
+    "name": "Rote Gruetze",
+    "difficulty": 2,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 263,
+    "name": "King Potato",
+    "difficulty": 5,
+    "HS": true,
+    "added": 1,
+    "autoserve": false
+  },
+  {
+    "id": 264,
+    "name": "Pavlova",
+    "difficulty": 1,
+    "HS": false,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 265,
+    "name": "Organic Salad",
+    "difficulty": 4,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 266,
+    "name": "Ice Cream Scoops",
+    "difficulty": 3,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 267,
+    "name": "Glazed Donut",
+    "difficulty": 0,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 268,
+    "name": "Specialty Donuts",
+    "difficulty": 1,
+    "HS": false,
+    "added": 2,
+    "autoserve": false
+  },
+  {
+    "id": 269,
+    "name": "Frozen Bananas",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 270,
+    "name": "Cinnamon Buns",
+    "difficulty": 0,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 271,
+    "name": "Brownies",
+    "difficulty": 0,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 272,
+    "name": "Marshmallow Squares",
+    "difficulty": 0,
+    "HS": false,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 276,
+    "name": "Curry",
+    "difficulty": 1,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 277,
+    "name": "King Cake",
+    "difficulty": 2,
+    "HS": false,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 278,
+    "name": "Eggs Benedict",
+    "difficulty": 3,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 279,
+    "name": "Dosa",
+    "difficulty": 3,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 280,
+    "name": "Chicken Tikka",
+    "difficulty": 3,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 281,
+    "name": "Ayam Goreng",
+    "difficulty": 0,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 282,
+    "name": "Satay",
+    "difficulty": 1,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 283,
+    "name": "Soto Ayam",
+    "difficulty": 2,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 284,
+    "name": "Seafood Boil",
+    "difficulty": 2,
+    "HS": true,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 285,
+    "name": "Sizzling Apple Pie",
+    "difficulty": 2,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 287,
+    "name": "Jerk Chicken",
+    "difficulty": 0,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 288,
+    "name": "Kringle",
+    "difficulty": 1,
+    "HS": false,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 289,
+    "name": "Grilled Cheese Sandwich",
+    "difficulty": 0,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  },
+  {
+    "id": 290,
+    "name": "Deluxe Poutine",
+    "difficulty": 5,
+    "HS": true,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 291,
+    "name": "Food Truck Fries",
+    "difficulty": 3,
+    "HS": true,
+    "added": 1,
+    "autoserve": true
+  },
+  {
+    "id": 292,
+    "name": "Food Truck Beans",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 293,
+    "name": "Food Truck Rice",
+    "difficulty": 1,
+    "HS": true,
+    "added": 2,
+    "autoserve": true
+  },
+  {
+    "id": 294,
+    "name": "Boba Tea",
+    "difficulty": 2,
+    "HS": false,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 295,
+    "name": "Soda Floats",
+    "difficulty": 2,
+    "HS": false,
+    "added": 3,
+    "autoserve": false
+  },
+  {
+    "id": 296,
+    "name": "Egg Foo Yung",
+    "difficulty": 2,
+    "HS": false,
+    "added": 3,
+    "autoserve": true
+  }
+]
