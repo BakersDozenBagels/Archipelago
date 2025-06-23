@@ -44,13 +44,12 @@ class Day:
         return f"Day({self.name} ({self.id}) = {{min_points:{self.min_points}, min_prep:{self.min_prep}, so:{self.so}, hs:{self.hs}, menu:{self.menu}}})"
 
     def _max_points(self, hs: bool, player: int, state: CollectionState):
-        count = 0
-        sum = 0
-        for x in self.menu:
-            if x.HS == hs and state.has(x.name, player):
-                count += 1
-                sum += x.difficulty
-        return -1 if count < (self.hs if hs else self.so) else sum
+        items = [
+            x.difficulty for x in self.menu if x.HS == hs and state.has(x.name, player)
+        ]
+        if len(items) < (self.hs if hs else self.so):
+            return -1
+        return sum(sorted(items, reverse=True)[: self.hs if hs else self.so])
 
     def is_beatable_for(self, player: int) -> Callable[[CollectionState], bool]:
         def beatable(state: CollectionState):
@@ -90,7 +89,10 @@ class Territory:
 
 
 territories: list[Territory] = [
-    Territory(o, i) for i, o in enumerate(orjson.loads(pkgutil.get_data(__name__, "data/routes.json")), 1)
+    Territory(o, i)
+    for i, o in enumerate(
+        orjson.loads(pkgutil.get_data(__name__, "data/routes.json")), 1
+    )
 ]
 
 
